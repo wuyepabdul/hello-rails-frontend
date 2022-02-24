@@ -18,11 +18,6 @@ This web application is built to show how to connect react frontend to a rails a
 - Open http://localhost:3000 to view it in the browser.
 
 
-## Run Tests
-
-- `cd react-capstone` 
-- Run command: `npm run test`
-
 ## Author
 
 👤 **Abdul Wuyep**
